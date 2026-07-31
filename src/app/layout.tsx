@@ -30,6 +30,11 @@ export const metadata: Metadata = {
     "speziato pepper",
   ],
   authors: [{ name: "Speziato" }],
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/favicon.ico",
+  },
   openGraph: {
     title: "Speziato Premium Black Pepper | Kerala's Finest Pepper",
     description: "Premium black pepper sourced from Kerala's hills. Freshly harvested, naturally processed, and packed for exceptional flavour and aroma.",
